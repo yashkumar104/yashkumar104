@@ -13,7 +13,7 @@
 
 <p align="center">
 I'm a <b>Frontend Developer</b> 🎨 passionate about building modern, high-performance web applications. <br>
-Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
+Currently pursuing <b>CSE </b> and exploring new technologies 🚀
 </p>
 
 ---
