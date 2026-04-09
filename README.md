@@ -83,9 +83,14 @@ Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
 <h2 align="center"><b>🤝 Let's Connect</b></h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="(https://linkedin.com/in/yashkumar04)">
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
 </a>
+
+  <p align="center">
+  <a href="mailto:kaushikyash5274@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
