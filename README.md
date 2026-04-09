@@ -88,13 +88,6 @@ Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
 </a>
 </p>
 
----
-
-<h2 align="center"><b>😄 Fun Zone</b></h2>
-
-<p align="center">
-<img src='https://web-production-4cea.up.railway.app/' height="400">
-</p>
 
 ---
 
