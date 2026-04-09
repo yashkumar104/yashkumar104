@@ -7,8 +7,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/stars/nikhilsundriya?style=for-the-badge&color=0e75b6&label=Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=yashkumar104&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/stars/yashkumar104?style=for-the-badge&color=0e75b6&label=Stars"/>
 </p>
 
 <p align="center">
