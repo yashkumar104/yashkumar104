@@ -26,9 +26,9 @@ Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
 <h3 align="center">Programming Languages</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50"><br><br>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50"><br><br>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50"><br><br>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="50">
 </p>
 
@@ -37,7 +37,7 @@ Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
 <h3 align="center">Libraries & Frameworks</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="50"><br><br>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="50">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="50">
 </p>
 
@@ -46,8 +46,8 @@ Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
 <h3 align="center">Tools</h3>
 
 <p align="center">
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="50"><br><br>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="50"><br><br>
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="50">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="50">
 </p>
 
@@ -87,7 +87,6 @@ Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
 </a>
 </p>
-
 
 ---
 
