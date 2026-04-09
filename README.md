@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=F700FF&center=true&vCenter=true&width=500&lines=Hi+There,+I'm+Yash+👋;Frontend+Developer;UI%2FUX+Enthusiast+🎨" />
 </h1>
 
+<h3 align="center">
+  💻 Frontend Developer &nbsp;|&nbsp; 🎨 UI/UX Focused &nbsp;|&nbsp; 🇮🇳 India
+</h3>
+
 <p align="center">
 I'm a <b>Frontend Developer</b> 🎨 passionate about building modern, high-performance web applications. <br>
 Currently pursuing <b>CSE (AI & ML)</b> and exploring new technologies 🚀
