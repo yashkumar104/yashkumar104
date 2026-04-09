@@ -13,7 +13,7 @@
 
 <p align="center">
 I'm a <b>Frontend Developer</b> 🎨 passionate about building modern, high-performance web applications. <br>
-Currently pursuing <b>CSE </b> and exploring new technologies 🚀
+Currently pursuing <b>CSE</b> and exploring new technologies 🚀
 </p>
 
 ---
@@ -55,9 +55,9 @@ Currently pursuing <b>CSE </b> and exploring new technologies 🚀
 <h3 align="center">Tools</h3>
 
 <p align="center">
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="50">
+<img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="50">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="50">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
 </p>
 
 ---
@@ -65,7 +65,7 @@ Currently pursuing <b>CSE </b> and exploring new technologies 🚀
 <h2 align="center"><b>📈 GitHub Stats</b></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=yashkumar104&show_icons=true&theme=radical&include_all_commits=true">
 </p>
 
 ---
@@ -73,7 +73,7 @@ Currently pursuing <b>CSE </b> and exploring new technologies 🚀
 <h2 align="center"><b>🔥 Streak Stats</b></h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical">
+<img src="https://streak-stats.demolab.com/?user=yashkumar104&theme=radical">
 </p>
 
 ---
@@ -92,9 +92,29 @@ Currently pursuing <b>CSE </b> and exploring new technologies 🚀
 <h2 align="center"><b>🤝 Let's Connect</b></h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
+
+<a href="https://www.linkedin.com/in/yashkumar04" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/yashh_4725" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:kaushikyash5274@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/yashkumar104" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+</a>
+
 </p>
 
 ---
